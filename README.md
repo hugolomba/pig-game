@@ -2,6 +2,8 @@
 
 A two-player dice game where the first player to reach the target score wins. This project was developed to practise JavaScript fundamentals, DOM manipulation, and game logic using only HTML, CSS, and vanilla JavaScript.
 
+🟢 **Live Demo**: [https://hugolomba.github.io/pig-game/](https://hugolomba.github.io/pig-game/)
+
 ## 🚀 Features
 
 - Random dice roll with dynamic dice image
@@ -42,6 +44,6 @@ A two-player dice game where the first player to reach the target score wins. Th
 
 ```bash
 git clone https://github.com/your-username/pig-game.git
-
-`
 ```
+
+2. Open the index.html file in your browser.
